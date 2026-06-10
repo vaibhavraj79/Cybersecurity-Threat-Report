@@ -28,4 +28,4 @@ This is a professional Threat Intelligence Report prepared as part of the
 Maincrafts Technology Internship Program — June 2025
 
 ## 👤 Author
-**Your Name** | Cybersecurity Analyst Intern
+**Vaibhav Raj Singh Rathore** | Cybersecurity Analyst Intern

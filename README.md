@@ -50,7 +50,7 @@ Configured UFW firewall rules to allow traffic on the required port (3000).
 Resolved technical issues including Docker network conflicts and manual static IP assignment using VBoxManage.
 Verified connectivity between Kali and the target VM across the Host-Only network.
 Documented the full setup process with screenshots for submission.
-📎 Deliverable: 
+📎 Deliverable: https://github.com/vaibhavraj79/Cybersecurity-Threat-Report/blob/main/Task2_Lab_Report_Final.docx
 
 ## 🔎 Task 3 — Vulnerability Scanning & Assessment
 📄 Overview

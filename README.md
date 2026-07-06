@@ -82,4 +82,4 @@ Permissive CORS policy (Medium)
 Build metadata disclosure via /stats.json (Low)
 Information leak via custom X-Recruiting header (Low)
 
-deliverable:https://github.com/vaibhavraj79/Cybersecurity-Threat-Report/blob/main/Task3_Vulnerability_Assessment_Report.docx
+deliverable:https://github.com/vaibhavraj79/Cybersecurity-Threat-Report/blob/main/Task3_Vulnerability_Assessment_Report.pdf
